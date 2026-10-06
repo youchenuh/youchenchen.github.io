@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+website:
+  title: "Your Name"
+  navbar:
+    right:
+      - text: "CV"
+        href: files/cv.pdf
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

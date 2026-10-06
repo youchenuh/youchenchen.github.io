@@ -1,0 +1,31 @@
+---
+title: "Your Name"
+subtitle: "Graduate student in political science"
+about:
+  template: jolla
+  image: files/profile-placeholder.svg
+  image-alt: "Placeholder profile picture"
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:you@uh.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+---
+
+## About
+
+Write two or three sentences about who you are, what you study, and what kinds of work interest you.
+
+## Publications
+
+- Add a citation and a link to a paper here. If you do not have a publication yet, list a working paper or rename this section **Research**.
+
+## Teaching
+
+- Add a course, workshop, tutoring role, or teaching interest here.
+
+## Working Papers
+
+- Add a working-paper title, coauthors, status, and a link to a draft when one is available.
