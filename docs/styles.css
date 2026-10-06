@@ -1,0 +1,9 @@
+main {
+  max-width: 48rem;
+}
+
+/* Keep the profile header centered; left-align the reading sections below it. */
+.quarto-about-jolla main.content {
+  width: 100%;
+  text-align: left;
+}

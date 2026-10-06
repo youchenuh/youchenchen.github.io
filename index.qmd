@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "You-Chen, Chen"
 subtitle: "Graduate student in political science"
 about:
   template: jolla
